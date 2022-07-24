@@ -1,0 +1,26 @@
+.navbar {
+    background: #BA9B37;
+    text-align: left;
+    padding: 2vw;
+    display: flex;
+    margin: auto;
+}
+
+.navbar > div {
+    line-height: 2vw;
+}
+.logo {
+    height: 3.5vw;
+    margin: 1em;
+}
+
+.navbar-email {
+    color: white;
+    font-size: 2vw;
+}
+
+.card-name {
+    margin: auto;
+    font-size: 3.5vw;
+    color: white;
+}
